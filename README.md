@@ -1,2 +1,3 @@
 # maven-archetype
-Maven archetype for Java projects.
+
+Custome Maven archetype for Java Projects using testng
